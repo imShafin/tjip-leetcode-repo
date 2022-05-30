@@ -1,6 +1,6 @@
 /*
 TC: O(N) // N means number of Nodes.
-MC: O(N) // N   ,,    ,,       ,,
+MC: O(1)
 */
 class Solution {
 public:
