@@ -1,5 +1,5 @@
 /// TC: O(NlogN) /// N = Size of nums array
-/// MC:
+/// MC: O(T) T means per recursion call
 class Solution {
 public:
     TreeNode* BST(vector<int>& nums, int L, int R)
