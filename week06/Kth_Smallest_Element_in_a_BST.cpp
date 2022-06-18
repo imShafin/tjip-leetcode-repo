@@ -1,5 +1,5 @@
 /// TC: O(NlogN) /// N is k
-/// MC: O(N)
+/// MC: O(T) T means per recursion call
 
 class Solution {
 public:
