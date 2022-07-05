@@ -1,6 +1,6 @@
 
 /// TC: O(NlogN) N is Number of Nodes
-/// MC: O(T) T means per recursion call
+/// MC: O(H) H means per recursion call
 
 class Solution {
 public:
