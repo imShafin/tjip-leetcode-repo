@@ -11,7 +11,7 @@ public:
         while(!nodeTracker.empty()) {
             int len = nodeTracker.size();
             vector<int> nodesInLevel;
-            for(int i = 0; i < len; i++) {    /// Sakib vaiya's idea
+            for(int i = 0; i < len; i++) {  
                 auto parent = nodeTracker.front();
                 nodeTracker.pop();
                 if(parent) nodesInLevel.push_back(parent->val);
