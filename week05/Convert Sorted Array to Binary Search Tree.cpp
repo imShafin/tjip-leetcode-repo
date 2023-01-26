@@ -1,5 +1,6 @@
-/// TC: O(NlogN) /// N is the Size of nums array
-/// MC: O(D)     /// D = 
+/// TC: O(N) /// N is the Size of nums array
+/// MC: O(D)     /// D = Max depth of recursion call 
+
 class Solution {
 public:
     TreeNode* makeBST(vector<int>& nums, int L, int R)
