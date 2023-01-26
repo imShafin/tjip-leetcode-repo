@@ -1,4 +1,4 @@
-TC: O(N*M)       ///N is total nodes, M is maximum nodes in a level
+TC: O(N)       ///N is total nodes
 MC: O(N)         ///N is the Total number's of Node 
 
 class Solution {
