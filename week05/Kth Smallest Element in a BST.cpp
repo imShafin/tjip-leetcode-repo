@@ -1,5 +1,5 @@
 
-/// TC: O(NlogN) /// N is total node of of tree 
+/// TC: O(N) /// N is total node of of tree 
 /// MC: O(D) D is the maximum depth of recursion 
 
 class Solution {
