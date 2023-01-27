@@ -1,4 +1,4 @@
-/// TC: O(NlogN) N is the number of Nodes
+/// TC: O(N) N is the number of Nodes
 /// MC: O(H) H is the height of recursion
 
 class Solution {
